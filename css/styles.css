@@ -1,0 +1,914 @@
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pro1 {
+  color: #9E1B32;
+  font-weight: bold;
+
+  
+}
+
+.pro2 {
+  color: black;
+  font-weight: bold;
+
+  
+}
+
+.pro3 {
+  color: darkgreen;
+  font-weight: bold;
+  
+}
+
+.footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:WHITE;
+    background-color: #9E1B32;
+    
+    }
+
+
+
+
+          /*MOBILE VIEW BELOW */
+
+    @media (min-width: 319px) and (max-width: 480px) {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+
+    .img-bannerM {
+
+      width: 100%;
+      height: 100%;
+      display: block;
+    
+    }
+    
+    .img-banner {
+    
+    display: none;
+
+    }
+    
+
+    .JoeNamatholderAL {
+
+      height: 90%;
+      width: 90%;
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+      margin-bottom: 40px;
+
+    }
+    
+
+    .namathALQB {
+
+      height: 90%;
+      width: 90%;
+      display: Block;
+      margin-left: auto;
+      margin-bottom: 50px;
+      margin-right: auto;
+    
+      margin-top: 40px;
+    
+      border-radius: 25px;
+    
+    
+    }
+    
+    h2 {
+    
+      font-size: 60px;
+      line-height: 66px;
+
+      color: #9E1B32;
+      font-weight: bold;
+
+      margin-top: 45px;
+      margin-bottom: 40px;
+
+
+    
+    }
+
+    .footerpicture {
+
+      display: block;
+      height: 70%;
+      width: 70%;
+
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 50px;
+      margin-bottom: 60px;
+
+
+
+    }
+
+
+
+    h1 {
+
+      margin-left: 40px;
+      margin-right: 40px;
+
+      color: darkgreen;
+      font-weight: bold;
+
+      font-size: 60px;
+      line-height: 66px;
+      text-align: center;
+
+      margin-top: 50px;
+
+      margin-bottom: 50px;
+
+
+    }
+
+
+    .bodytext {
+
+      margin-left: 40px;
+      margin-right: 40px;
+      margin-bottom: 60px;
+
+      font-size: 45px;
+      line-height: 57px;
+
+      border: 4px #9E1B32 solid;
+
+      padding-top: 15px;
+      padding-bottom: 15px;
+      padding-right: 15px;
+      padding-left: 15px;
+
+  
+    
+    }
+
+    .picture {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 20px;
+      margin-bottom: 20px;
+    
+    
+      height: 95%;
+      width: 95%;
+    
+      border-radius: 25px;
+    
+    }
+
+
+
+    .parent1 {
+
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+
+    }
+
+
+
+
+
+
+}
+
+          /*IPAD AND TABLET VIEW BELOW - BILL D. PHONE VIEW HERE */ 
+
+    @media (min-width: 481px) and (max-width: 1200px) {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+
+
+
+      }
+
+      .footerpicture {
+
+        display: block;
+        height: 60%;
+        width: 60%;
+  
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        margin-bottom: 60px;
+  
+  
+  
+      }
+  
+
+
+
+      .img-bannerM {
+
+        width: 90%;
+        height: 90%;
+        display: block;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 30px;
+
+      
+      }
+      
+      .img-banner {
+      
+      display: none;
+  
+      }
+  
+      .pro2 {
+        color: red;
+        
+      }
+
+      .JoeNamatholderAL {
+
+        height: 90%;
+        width: 90%;
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-bottom: 40px;
+
+
+
+        
+      }
+      
+
+      .namathALQB {
+
+        height: 90%;
+        width: 90%;
+        display: Block;
+        margin-left: 40px;
+        margin-bottom: 50px;
+        margin-right: 40px;
+      
+        margin-top: 40px;
+      
+        border-radius: 25px;
+      
+      
+      }
+      
+
+      h1 {
+
+        margin-left: 40px;
+        margin-right: 40px;
+
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+
+        color: darkgreen;
+        font-weight: bold;
+
+        font-size: 55px;
+        line-height: 65px;
+        text-align: center;
+
+      }
+
+      h2 {
+      
+      font-size: 60px;
+      line-height: 66px;
+        color: #9E1B32;
+        font-weight: bold;
+        text-align: center;
+
+        margin-top: 48px;
+        margin-bottom: 35px;
+  
+        margin-left: 40px;
+        margin-right: 40px;
+
+
+
+      
+      }
+
+
+
+      .bodytext {
+
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-bottom: 100px;
+
+        margin-top: 40px;
+
+
+        font-size: 45px;
+        line-height: 60px;
+
+        text-align: center;
+
+        padding-top: 50px;
+
+        
+
+        border: 4px #9E1B32 solid;
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        padding-left: 15px;
+
+
+        
+      
+      }
+      
+
+
+    .parent1 {
+
+      display: flex;
+      gap: 20px;
+      flex-direction: column;
+
+      margin-top: 60px;
+
+
+    }
+
+    .picture {
+
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    
+      margin-top: 40px;
+      margin-bottom: 40px;
+    
+    
+      height: 90%;
+      width: 90%;
+    
+      border-radius: 25px;
+    
+    }
+
+    #press {
+
+      background-color: rgb(222, 210, 210);
+    
+      padding-top: 30px;
+      padding-bottom: 30px;
+    
+    }
+    
+    
+    
+    
+
+
+
+  }
+
+
+
+          /*LAPTOP VIEW BELOW */
+
+
+    @media (min-width: 1201px) and (max-width: 1600px) {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+      .footerpicture {
+
+        display: block;
+        height: 40%;
+        width: 40%;
+  
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        margin-bottom: 60px;
+  
+  
+  
+      }
+  
+
+
+
+.JoeNamatholderAL {
+
+  display: none;
+  
+
+}
+
+
+
+
+
+.img-bannerM {
+
+  display: none;
+
+}
+
+.img-banner {
+
+  width: 100%;
+  height: 100%;
+  display: block;
+  
+}
+
+#press {
+
+  background-color: rgb(222, 210, 210);
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+
+h1 {
+
+  margin-left: 40px;
+  color: darkgreen;
+  font-weight: bold;
+  background-color: yellow;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  margin-right: 40px;
+
+
+
+}
+h2 {
+      
+  margin-left: 40px;
+  color: #9E1B32;
+  font-weight: bold;
+  background-color: yellow;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  margin-right: 40px;
+  border-radius: 20px;
+
+}
+
+
+
+.parent1 {
+
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+
+
+
+
+
+}
+
+.JoePicture {
+
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+  flex-wrap: wrap;
+
+
+
+}
+
+
+
+.picture {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+
+  height: 50%;
+  width: 50%;
+
+  border-radius: 25px;
+
+}
+
+.namathALQB {
+
+  height: 30%;
+  width: 30%;
+  display: Block;
+  margin-left: 40px;
+  margin-bottom: 50px;
+  margin-right: 40px;
+
+  margin-top: 40px;
+
+  border-radius: 25px;
+
+
+}
+
+.pro1 {
+  color: red;
+  
+}
+
+.pro2 {
+  color: black;
+  
+}
+
+.bodytext {
+
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-bottom: 100px;
+
+  margin-top: 50px;
+
+
+  font-size: 145%;
+
+  line-height: 155%;
+
+  border: 4px #9E1B32 solid;
+
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+
+
+  
+
+
+}
+
+.JoePictureStar {
+
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+  flex-wrap: wrap;
+
+
+}
+
+
+
+
+
+
+}
+
+
+
+      /*DESKTOP VIEW BELOW */
+
+
+    @media (min-width: 1601px)  {
+
+      hr {
+
+        border: solid 4px red;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+
+        margin-top: 80px;
+        margin-bottom: 80px;
+        
+
+
+      }
+
+      h3 {
+
+        text-align: center;
+        font-size: 40px;
+      }
+
+      .footerpicture {
+
+        display: block;
+        height: 40%;
+        width: 40%;
+  
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        margin-bottom: 60px;
+  
+  
+  
+      }
+  
+
+
+      .JoeNamatholderAL {
+
+        display: none;
+        
+      
+      }
+      
+      
+      
+      
+      .img-bannerM {
+      
+        display: none;
+      
+      }
+      
+      .img-banner {
+      
+        width: 100%;
+        height: 100%;
+        display: block;
+        
+      }
+      
+      
+      h1 {
+      
+  margin-left: 40px;
+  color: darkgreen;
+  font-weight: bold;
+  background-color: yellow;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  margin-right: 40px;
+      
+      }
+
+      h2 {
+      
+        margin-left: 40px;
+        color: #9E1B32;
+        font-weight: bold;
+        background-color: yellow;
+        padding: 15px 15px 15px 15px;
+        text-align: center;
+        margin-right: 40px;
+
+        border-radius: 20px;
+
+      
+
+      
+      }
+
+      h3 {
+
+        margin-left: 40px;
+        color: #9E1B32;
+        font-weight: bold;
+
+        
+
+
+
+      }
+
+      #press {
+
+        background-color: rgb(222, 210, 210);
+      
+        padding-top: 30px;
+        padding-bottom: 30px;
+      
+      }
+            
+      .parent1 {
+      
+        display: flex;
+        gap: 20px;
+        flex-direction: row;
+
+        margin-top: 40px;
+        margin-bottom: 40px;
+
+      }
+
+      .JoePicture {
+
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+      }
+
+      .JoePictureStar {
+
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+      }
+
+
+      
+
+      .joeNamath1greenshirt {
+
+        height: 30%;
+        width: 30%;
+        display: block;
+
+      }
+      
+      
+      
+      .picture {
+      
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+        margin-top: 40px;
+        margin-bottom: 40px;
+      
+      
+        height: 50%;
+        width: 50%;
+      
+        border-radius: 25px;
+      
+      }
+      
+      .namathALQB {
+      
+        height: 30%;
+        width: 30%;
+        display: Block;
+        margin-left: 40px;
+        margin-bottom: 50px;
+        margin-right: 40px;
+      
+        margin-top: 40px;
+      
+        border-radius: 25px;
+      
+      
+      }
+      
+      .pro1 {
+        color: red;
+        
+      }
+      
+      .pro2 {
+        color: black;
+        
+      }
+      
+      .bodytext {
+      
+        margin-left: 120px;
+        margin-right: 120px;
+        margin-bottom: 40px;
+
+        margin-top: 50px;
+
+        margin-bottom: 100px;
+
+
+        font-size: 145%;
+      
+        line-height: 155%;
+
+        border: 4px #9E1B32 solid;
+
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+        padding-left: 15px;
+
+
+      
+        
+      
+      
+      }
+      
+    
+
+      .JoePictureStar {
+
+        display: none;
+
+
+      }
+
+      .JoePicture {
+
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+      
+        margin-top: 60px;
+        margin-bottom: 60px;
+      
+        flex-wrap: wrap;
+      
+      
+      
+      }
+      
+      
+
+    }
